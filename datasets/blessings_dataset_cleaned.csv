@@ -1,0 +1,104 @@
+From,Subject,Urgency,Deserve_Score,Reference,Subject_length,Urgency_Clean
+Naruto Uzumaki,Please make my enemies trip on Lego bricks.,HIGH,8.5,Naruto,43,HIGH
+Luffy,Meat! And help me find the One Piece!,high,9.0,One Piece,37,HIGH
+Light Yagami,"Grant me a world free of crime, shaped by my justice.",high,9.4,Death Note,53,HIGH
+Edward Elric,"Let me restore what I lost, even if it breaks me.",high,9.3,Fullmetal Alchemist,49,HIGH
+Tanjiro Kamado,Please heal Nezuko and give me strength to help others.,high,,Demon Slayer,55,HIGH
+Ichigo Kurosaki,"Give me power to protect everyone, even if it tears me apart.",HIGH,,Bleach,61,HIGH
+Sailor Moon,I pray for unlimited rice pudding. Amen.,high,7.5,Sailor Moon,40,HIGH
+Goku,Let me fight the strongest opponents in the universe!,HIGH,10.0,Dragon Ball,53,HIGH
+Levi Ackerman,No more tea shortages. And a clean death for my comrades.,high,,Attack on Titan,57,HIGH
+Spike Spiegel,Please let me forget the past… and find peace in the stars.,low,8.2,Cowboy Bebop,59,LOW
+Edward Elric,"Let me restore what I lost, even if it breaks me.",high,8.7,Fullmetal Alchemist,49,HIGH
+Nezuko Kamado,(prays silently with a smile for her brother),high,,Demon Slayer,45,HIGH
+Rukia Kuchiki,Please let me find my place between two worlds.,High,8.2,Bleach,47,HIGH
+Nami,"Oops, forgot my prayer—please fill it in for me!",medium,8.5,One Piece,48,MEDIUM
+Shikamaru Nara,"God, can life be a little less troublesome?",high,,Naruto,43,HIGH
+Vash the Stampede,"Peace and love, without killing anyone.",HIGH,7.0,Trigun,39,HIGH
+Mikasa Ackerman,"Please let Eren be safe, wherever he runs.",,,Attack on Titan,42,
+Kenshin Himura,"Grant me atonement, and a peaceful era without my blade.",high,5.0,Rurouni Kenshin,56,HIGH
+Gintoki Sakata,"More parfaits, more manga, fewer responsibilities.",,9.8,Gintama,50,
+Ash Ketchum,"Let me be the very best, like no one ever was!",high,8.4,Pokemon,46,HIGH
+All Might,Please grant me strength to inspire the next generation of heroes.,medium,10.0,My Hero Academia,66,MEDIUM
+Killua Zoldyck,Please let me escape my family’s grip and have more chocolate balls.,high,7.3,Hunter x Hunter,68,HIGH
+Rem,"Please let Subaru be happy, even if it isn’t with me.",,,Re:Zero,53,
+Saitama,Grant me the ability to find matching socks.,medium,7.1,One Punch Man,44,MEDIUM
+Yusuke Urameshi,Give me another shot at life… and snacks for Keiko.,LOW,7.0,Yu Yu Hakusho,51,LOW
+Shoyo Hinata,Please let me jump higher than anyone else!,,9.3,Haikyuu,43,
+Holo,"Apples, good trade deals, and a journey that never ends.",LOW,,Spice and Wolf,56,LOW
+Koro-sensei,May my students grow to surpass me.,high,9.0,Assassination Classroom,35,HIGH
+Megumin,Explosion magic every day! Nothing else!,high,,KonoSuba,40,HIGH
+Rei Ayanami,Purpose. That’s all.,HIGH,7.2,Evangelion,20,HIGH
+Vegeta,Make me stronger than Kakarot… or at least make Kakarot weaker.,High,9.0,Dragon Ball,63,HIGH
+Mikoto Misaka,Please let me zap away problems without breaking the city again.,high,,Unknown,64,HIGH
+Shinji Ikari,Please let me be needed… without hurting anyone.,HIGH,,Evangelion,48,HIGH
+Inuyasha,"Let me protect Kagome… and maybe ramen, too.",HIGH,8.0,Inuyasha,44,HIGH
+Kagome Higurashi,Please let me balance modern life and feudal era battles.,HIGH,,Inuyasha,57,HIGH
+Rintarou Okabe,"Grant me the power to nap anywhere, anytime.",High,6.5,Steins;Gate,44,HIGH
+Homura Akemi,Give me another chance to protect Madoka.,medium,7.8,Unknown,41,MEDIUM
+Ryuk,"More apples, please! That’s all.",high,5.0,Death Note,32,HIGH
+Kaname Madoka,Please save everyone… even if it costs me everything.,HIGH,,Unknown,53,HIGH
+Sango,"Protect my brother, and keep my friends safe.",high,9.7,Inuyasha,45,HIGH
+Byakuya Kuchiki,"Grant me composure to uphold honor, even if my heart breaks.",high,9.0,Bleach,60,HIGH
+Sanosuke Sagara,May my snacks never run out during anime marathons.,high,8.3,Rurouni Kenshin,51,HIGH
+Hiei,Strength. Nothing else. Maybe… trust.,high,,Yu Yu Hakusho,37,HIGH
+Riza Hawkeye,Keep Colonel Mustang alive and focused.,medium,,Unknown,39,MEDIUM
+Gowther,Please help me understand what ‘heart’ truly means.,high,8.2,The Seven Deadly Sins,51,HIGH
+Yuno Gasai,"Yuki, Yuki, Yuki—forever with Yuki!",high,8.0,Future Diary,35,HIGH
+Shiro,Let me win every game with Sora by my side.,low,8.1,No Game No Life,43,LOW
+Kamina,Let my hair stay perfect even in battle.,high,7.6,Gurren Lagann,40,HIGH
+Erza Scarlet,"Grant me armor unbreakable, spirit unshakable.",HIGH,9.5,Fairy Tail,46,HIGH
+Brook,Yohohoho! Please let me see Laboon again.,High,6.0,One Piece,41,HIGH
+Rengoku Kyojuro,Grant me the ability to find matching socks.,medium,8.9,Demon Slayer,44,MEDIUM
+Shoto Todoroki,Please help me balance fire and ice without hating myself.,medium,,My Hero Academia,58,MEDIUM
+Alluka Zoldyck,Let me grant wishes without hurting anyone.,HIGH,,Hunter x Hunter,43,HIGH
+Nanami Kento,Let me finish work at 6 sharp and keep my students safe.,medium,8.7,Jujutsu Kaisen,56,MEDIUM
+Sailor Mars,Please grant me fire and patience.,low,7.4,Sailor Moon,34,LOW
+Trafalgar Law,Let me find the true history and free my people.,HIGH,8.0,One Piece,48,HIGH
+Misato Katsuragi,Bless me with enough beer to deal with these kids.,medium,9.3,Evangelion,50,MEDIUM
+Kurapika,"Let me avenge my clan, but keep my friends safe.",HIGH,8.1,Hunter x Hunter,48,HIGH
+Asuka Langley,May I never be second place again.,HIGH,8.4,Evangelion,34,HIGH
+Chopper,"Let me cure every disease in the world. Also, cotton candy every day!",HIGH,9.5,One Piece,69,HIGH
+Nagisa Shiota,"Oops, forgot my prayer—please fill it in for me!",LOW,,Assassination Classroom,48,LOW
+Kenshiro,Please grant me strength to protect the weak.,medium,9.0,Fist of the North Star,45,MEDIUM
+Giorno Giovanna,Grant me the resolve to realize my golden dream.,medium,,JoJo's Bizarre Adventure,48,MEDIUM
+Joseph Joestar,Give me quick wit to survive bizarre adventures.,high,7.6,JoJo's Bizarre Adventure,48,HIGH
+Dio Brando,The world itself should bow before me!,low,,JoJo's Bizarre Adventure,38,LOW
+Okabe Rintarou,El Psy Kongroo… let my timelines be stable.,High,7.0,Steins;Gate,43,HIGH
+Kilala,Please give me more fish and cozy naps.,,,Inuyasha,39,
+Touka Kirishima,Let me protect Anteiku and the ones I love.,High,9.8,Tokyo Ghoul,43,HIGH
+Kaneki Ken,Please let me live without hurting others… even as a ghoul.,high,,Tokyo Ghoul,59,HIGH
+Bulma,Just give me new inventions that actually work on the first try!,High,6.5,Dragon Ball,64,HIGH
+Alphonse Elric,"Please give Brother back his body, and let cats follow me home forever.",medium,9.7,Fullmetal Alchemist,71,MEDIUM
+Kuwabara Kazuma,Let me protect my friends with honor and guts.,high,7.5,Yu Yu Hakusho,46,HIGH
+Shanks,Keep Luffy safe on his journey and let me see him again one day.,High,,One Piece,64,HIGH
+Holo the Wise Wolf,More apples and clever trades on every road.,high,9.8,Spice and Wolf,44,HIGH
+Escanor,"Dear God, please keep the WiFi stable during boss fights.",high,10.0,The Seven Deadly Sins,57,HIGH
+Shiroe,Please let strategy and wisdom protect my guild.,,8.1,Log Horizon,48,
+Kamui,"Strength to walk my own path, even away from family.",HIGH,,Unknown,52,HIGH
+Yoko Littner,"Keep everyone safe, and bullets plenty.",high,8.6,Gurren Lagann,39,HIGH
+Shanks (One Piece),Peace across the seas and laughter for the next generation.,medium,9.4,One Piece,59,MEDIUM
+Android 18,"Make my Mondays disappear forever, please.",HIGH,7.4,Dragon Ball,42,HIGH
+Kakashi Hatake,"May my students surpass me, and may no one ever find out what's under my mask.",medium,7.9,Naruto,78,MEDIUM
+Rintarou Okabe,Steins;Gate’s choice should always protect my friends.,medium,8.1,Steins;Gate,54,MEDIUM
+Soma Yukihira,Please let me cook dishes that surprise and delight everyone!,medium,,Food Wars,61,MEDIUM
+Natsu Dragneel,"Fire in my fists, and friends at my side!",High,9.5,Fairy Tail,41,HIGH
+Lucy Heartfilia,Please let my rival get stuck in tutorial levels forever.,high,,Fairy Tail,57,HIGH
+Gray Fullbuster,"Strength to stand, even when everything melts away.",High,7.0,Fairy Tail,51,HIGH
+Senku Ishigami,Grant me science to rebuild civilization.,High,,Dr. Stone,41,HIGH
+Rika Furude,Please let my friends live happily without repeating tragedies.,HIGH,9.1,Higurashi,63,HIGH
+Eureka,Peace between humans and Coralians.,high,9.0,Eureka Seven,35,HIGH
+Tsunade,"Grant me luck in gambling, and strength to heal my people.",High,,Naruto,58,HIGH
+Shinobu Kocho,Grant me patience for my comrades… and insect poison that works.,high,9.6,Demon Slayer,64,HIGH
+Euphemia li Britannia,Please let me build a world without hate.,HIGH,9.3,Code Geass,41,HIGH
+Lelouch Lamperouge,Grant me the power to change the world for Nunnally.,HIGH,,Code Geass,52,HIGH
+C.C.,Give me more pizza and freedom from contracts.,high,8.7,Code Geass,46,HIGH
+Kamijo Touma,Please keep my right hand from ruining every good thing.,high,,A Certain Magical Index,56,HIGH
+Kazuma Satou,Please let me live peacefully with money and comfort… and maybe not die stupidly.,HIGH,8.3,KonoSuba,81,HIGH
+Aqua,Bless me with worshippers! Or at least beer!,,,KonoSuba,44,
+Megumi Tadokoro,Please let me find confidence in my cooking.,,7.7,Food Wars,44,
+Reigen Arataka,May clients never discover my secrets and always pay on time.,high,7.5,Mob Psycho 100,61,HIGH
+Mob (Shigeo Kageyama),"Please let me live a normal life, even with this power.",HIGH,8.0,Mob Psycho 100,55,HIGH
+Natsu Dragneel,"Fire in my fists, and friends at my side!",High,9.5,Fairy Tail,41,HIGH
+Nanami Kento,Let me finish work at 6 sharp and keep my students safe.,medium,8.7,Jujutsu Kaisen,56,MEDIUM
+Alphonse Elric,"Please give Brother back his body, and let cats follow me home forever.",medium,9.7,Fullmetal Alchemist,71,MEDIUM
