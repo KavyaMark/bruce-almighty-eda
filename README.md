@@ -1,4 +1,4 @@
-# What if Bruce from 🙏🏻 *Bruce Almighty* 🙏🏻 knew how to play with data?
+# What if Bruce from 🙏🏻 *Bruce Almighty* 🙏🏻 understood exploratory data analysis (EDA)?
 
 *Bruce Almighty* is a fantasy comedy film (Wikipedia) that inspired this little exploratory data analysis (EDA )project. ☺️  
 The idea came to me while (re)watching *Bruce Almighty*. 😁  
