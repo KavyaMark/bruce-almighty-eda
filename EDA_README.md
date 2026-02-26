@@ -29,8 +29,9 @@ This project demonstrates structured data cleaning, visualization, and interpret
 - notebooks
   - BRUCE_ALMIGHTY_EDA.ipynb
   - README.md
-- README.md
+- .gitignore
 - EDA_README.md
+- README.md
 - requirements.txt
 
 ## 🔎 Key Analysis Areas 🔍
