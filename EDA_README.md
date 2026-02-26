@@ -31,6 +31,7 @@ This project demonstrates structured data cleaning, visualization, and interpret
   - README.md
 - README.md
 - EDA_README.md
+- requirements.txt
 
 ## 🔎 Key Analysis Areas 🔍
 
